@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(name="google-translate.py",
-      version="0.0.1",
+      version="1.0.0",
       author="Takkun053",
       author_email="takkun.053@gmail.com",
       url="https://github.com/Takkun053/google_translate_py",
@@ -11,7 +11,7 @@ setup(name="google-translate.py",
       packages=find_packages(),
       install_requires=["aiohttp", "requests"],
       classifiers=[
-          "Development Status :: 4 - Beta",
+          "Development Status :: 5 - Production/Stable",
           "Intended Audience :: Developers",
           "License :: OSI Approved :: MIT License",
           "Natural Language :: English",
